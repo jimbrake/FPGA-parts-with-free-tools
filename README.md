@@ -5,3 +5,4 @@ Xcell and PDF formats
 Part pricing is lowest original advertised price  
 Which are completely out of date  
 Printout in portrait mode on 8.5x11" paper is 4 pages  
+Data is not verified and is mostly correct  
